@@ -256,7 +256,7 @@
                                     <div class="clearfix"></div>
                                     <div class="col-lg-12 text-center">
                                         <div id="success"></div>
-                                        <button name="searchUserButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Check Users</button>
+                                        <button name="searchUserButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Check My Users</button>
                                     </div>
                                 </div>
                             </form>
@@ -276,14 +276,14 @@
                         <div class="bg-faded rounded p-5">
                             <h2 class="section-heading mb-4">
                                 <span class="section-heading-upper">User section</span>
-                                <span class="section-heading-lower">List my users</span>
+                                <span class="section-heading-lower">List all users</span>
                             </h2>
                             <form id="searchForm" name="searchMessage" action="searchUser.php" method="get" novalidate>
                                 <div class="row">
                                     <div class="clearfix"></div>
                                     <div class="col-lg-12 text-center">
                                         <div id="success"></div>
-                                        <button name="searchUserButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Check Users</button>
+                                        <button name="searchUserButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Check All Users</button>
                                     </div>
                                 </div>
                             </form>

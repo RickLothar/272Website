@@ -1,0 +1,1 @@
+{"pages":["news.html","destinations.html","index.html","contact.html","about.html"],"protected":{"Home":false,"Destinations":false,"News":false,"Contact":false,"About":false},"dynamic":{"news":true}}
